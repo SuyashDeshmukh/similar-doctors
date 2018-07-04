@@ -52,9 +52,9 @@ function showSimilars(doc) {
         var a1 = document.createElement('a');
         var a2 = document.createElement('div');
 
-        var index = (id1+i)%3;
+        var index = (id1+i)%n;
         a1.innerHTML = doctors[index].name;
-        a1.setAttribute('href', `/view.html?id=${id1+i}`)
+        a1.setAttribute('href', `/view.html?id=${(id1+i)%n + 1}`)
         a2.innerHTML = doctors[index].specialty;
         s1.appendChild(a1);
         s1.appendChild(a2);

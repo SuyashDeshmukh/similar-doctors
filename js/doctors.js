@@ -14,7 +14,7 @@ const doctors = [
         "address": "3555 Cesar Chavez",
         "specialty": "Diagnostic Radiology / Imaging",
         "phone": "(415) 647-8600",
-        "city": "San Francisco",
+        "city": "New York",
         "zip_code": "94110"
     },
     {
@@ -23,7 +23,7 @@ const doctors = [
         "address": "3555 Cesar Chavez",
         "specialty": "Diagnostic Radiology / Imaging",
         "phone": "(415) 647-8600",
-        "city": "San Francisco",
+        "city": "San Jose",
         "zip_code": "94110"
     },
     {
@@ -32,7 +32,7 @@ const doctors = [
         "address": "3555 Cesar Chavez",
         "specialty": "Diagnostic Radiology / Imaging",
         "phone": "(415) 647-8600",
-        "city": "San Francisco",
+        "city": "Santa Clara",
         "zip_code": "94110"
     },
     {
@@ -41,7 +41,7 @@ const doctors = [
         "address": "3555 Cesar Chavez",
         "specialty": "Diagnostic Radiology / Imaging",
         "phone": "(415) 647-8600",
-        "city": "San Francisco",
+        "city": "Los Angeles",
         "zip_code": "94110"
     },
     {
@@ -59,7 +59,7 @@ const doctors = [
         "address": "3555 Cesar Chavez",
         "specialty": "Diagnostic Radiology / Imaging",
         "phone": "(415) 647-8600",
-        "city": "San Francisco",
+        "city": "Austin",
         "zip_code": "94110"
     },
     {
@@ -77,7 +77,7 @@ const doctors = [
         "address": "3555 Cesar Chavez",
         "specialty": "Diagnostic Radiology / Imaging",
         "phone": "(415) 647-8600",
-        "city": "San Francisco",
+        "city": "Dallas",
         "zip_code": "94110"
     },
     {
@@ -86,7 +86,7 @@ const doctors = [
         "address": "3555 Cesar Chavez",
         "specialty": "Diagnostic Radiology / Imaging",
         "phone": "(415) 647-8600",
-        "city": "San Francisco",
+        "city": "New Jersey",
         "zip_code": "94110"
     },
     {
@@ -95,7 +95,7 @@ const doctors = [
         "address": "3555 Cesar Chavez",
         "specialty": "Diagnostic Radiology / Imaging",
         "phone": "(415) 647-8600",
-        "city": "San Francisco",
+        "city": "Oakland",
         "zip_code": "94110"
     },
     {
@@ -113,7 +113,7 @@ const doctors = [
         "address": "3555 Cesar Chavez",
         "specialty": "Diagnostic Radiology / Imaging",
         "phone": "(415) 647-8600",
-        "city": "San Francisco",
+        "city": "Austin",
         "zip_code": "94110"
     },
     {
@@ -131,7 +131,7 @@ const doctors = [
         "address": "3555 Cesar Chavez",
         "specialty": "2 Specialties",
         "phone": "(415) 647-8600",
-        "city": "San Francisco",
+        "city": "Chicago",
         "zip_code": "94110"
     },
     {
@@ -140,7 +140,7 @@ const doctors = [
         "address": "3555 Cesar Chavez",
         "specialty": "Diagnostic Radiology / Imaging",
         "phone": "(415) 647-8600",
-        "city": "San Francisco",
+        "city": "Buffalo",
         "zip_code": "94110"
     },
     {
@@ -158,7 +158,7 @@ const doctors = [
         "address": "3555 Cesar Chavez",
         "specialty": "Diagnostic Radiology / Imaging",
         "phone": "(415) 647-8600",
-        "city": "San Francisco",
+        "city": "Richmond",
         "zip_code": "94110"
     },
     {
@@ -266,7 +266,7 @@ const doctors = [
         "address": "3555 Cesar Chavez St",
         "specialty": "General Pediatrics",
         "phone": "(415) 641-6655",
-        "city": "San Francisco",
+        "city": "Los Angeles",
         "zip_code": "94110"
     },
     {
@@ -275,7 +275,7 @@ const doctors = [
         "address": "3555 Cesar Chavez St",
         "specialty": "Anesthesiology",
         "phone": "(415) 642-0707",
-        "city": "San Francisco",
+        "city": "Los Angeles",
         "zip_code": "94110"
     },
     {
@@ -284,7 +284,7 @@ const doctors = [
         "address": "3555 Cesar Chavez St",
         "specialty": "Diagnostic Radiology / Imaging",
         "phone": "(415) 641-6545",
-        "city": "San Francisco",
+        "city": "Los Angeles",
         "zip_code": "94110"
     },
     {
@@ -293,7 +293,7 @@ const doctors = [
         "address": "3555 Cesar Chavez St",
         "specialty": "General Pediatrics",
         "phone": "(415) 641-6655",
-        "city": "San Francisco",
+        "city": "Los Angeles",
         "zip_code": "94110"
     },
     {
@@ -302,7 +302,7 @@ const doctors = [
         "address": "3555 Cesar Chavez St",
         "specialty": "2 Specialties",
         "phone": "(415) 642-0707",
-        "city": "San Francisco",
+        "city": "Los Angeles",
         "zip_code": "94110"
     },
     {
@@ -320,7 +320,7 @@ const doctors = [
         "address": "3555 Cesar Chavez St",
         "specialty": "Diagnostic Radiology / Imaging",
         "phone": "(415) 641-6545",
-        "city": "San Francisco",
+        "city": "Los Angeles",
         "zip_code": "94110"
     },
     {
@@ -329,7 +329,7 @@ const doctors = [
         "address": "3555 Cesar Chavez St",
         "specialty": "Diagnostic Radiology / Imaging",
         "phone": "(415) 641-6545",
-        "city": "San Francisco",
+        "city": "Los Angeles",
         "zip_code": "94110"
     },
     {
@@ -338,7 +338,7 @@ const doctors = [
         "address": "3555 Cesar Chavez St",
         "specialty": "General Pediatrics",
         "phone": "(415) 641-6255",
-        "city": "San Francisco",
+        "city": "Los Angeles",
         "zip_code": "94110"
     },
     {
@@ -365,7 +365,7 @@ const doctors = [
         "address": "3555 Cesar Chavez St",
         "specialty": "General Pediatrics",
         "phone": "(415) 647-8600",
-        "city": "San Francisco",
+        "city": "Sacramento",
         "zip_code": "94110"
     },
     {
@@ -374,7 +374,7 @@ const doctors = [
         "address": "3555 Cesar Chavez St",
         "specialty": "General Pediatrics",
         "phone": "(415) 641-6655",
-        "city": "San Francisco",
+        "city": "Sacramento",
         "zip_code": "94110"
     },
     {
@@ -383,7 +383,7 @@ const doctors = [
         "address": "3555 Cesar Chavez St",
         "specialty": "Pathology",
         "phone": "(415) 641-6574",
-        "city": "San Francisco",
+        "city": "Sacramento",
         "zip_code": "94110"
     },
     {
@@ -392,7 +392,7 @@ const doctors = [
         "address": "3555 Cesar Chavez St",
         "specialty": "Diagnostic Radiology / Imaging",
         "phone": "(415) 641-6545",
-        "city": "San Francisco",
+        "city": "Sacramento",
         "zip_code": "94110"
     },
     {
@@ -401,7 +401,7 @@ const doctors = [
         "address": "3555 Cesar Chavez St",
         "specialty": "Diagnostic Radiology / Imaging",
         "phone": "(415) 641-6545",
-        "city": "San Francisco",
+        "city": "Sacramento",
         "zip_code": "94110"
     },
     {
@@ -410,7 +410,7 @@ const doctors = [
         "address": "3555 Cesar Chavez St",
         "specialty": "General Pediatrics",
         "phone": "(415) 647-8600",
-        "city": "San Francisco",
+        "city": "Sacramento",
         "zip_code": "94110"
     },
     {
@@ -419,7 +419,7 @@ const doctors = [
         "address": "3555 Cesar Chavez St",
         "specialty": "Anesthesiology",
         "phone": "(415) 642-0707",
-        "city": "San Francisco",
+        "city": "Sacramento",
         "zip_code": "94110"
     },
     {
@@ -428,7 +428,7 @@ const doctors = [
         "address": "3555 Cesar Chavez St",
         "specialty": "Pathology",
         "phone": "(415) 641-6574",
-        "city": "San Francisco",
+        "city": "Sacramento",
         "zip_code": "94110"
     },
     {
@@ -437,7 +437,7 @@ const doctors = [
         "address": "3555 Cesar Chavez St",
         "specialty": "Diagnostic Radiology / Imaging",
         "phone": "(415) 641-6545",
-        "city": "San Francisco",
+        "city": "Sacramento",
         "zip_code": "94110"
     },
     {
@@ -446,7 +446,7 @@ const doctors = [
         "address": "3555 Cesar Chavez St",
         "specialty": "Diagnostic Radiology / Imaging",
         "phone": "(415) 641-6545",
-        "city": "San Francisco",
+        "city": "Sacramento",
         "zip_code": "94110"
     },
     {
@@ -455,7 +455,7 @@ const doctors = [
         "address": "3555 Cesar Chavez St",
         "specialty": "Diagnostic Radiology / Imaging",
         "phone": "(415) 641-6545",
-        "city": "San Francisco",
+        "city": "Sacramento",
         "zip_code": "94110"
     },
     {
@@ -464,7 +464,7 @@ const doctors = [
         "address": "3555 Cesar Chavez St",
         "specialty": "Anesthesiology",
         "phone": "(415) 642-0707",
-        "city": "San Francisco",
+        "city": "Sacramento",
         "zip_code": "94110"
     },
     {
@@ -473,7 +473,7 @@ const doctors = [
         "address": "3555 Cesar Chavez St",
         "specialty": "General Pediatrics",
         "phone": "(415) 647-8600",
-        "city": "San Francisco",
+        "city": "Sacramento",
         "zip_code": "94110"
     },
     {
@@ -482,7 +482,7 @@ const doctors = [
         "address": "3555 Cesar Chavez St",
         "specialty": "Pathology",
         "phone": "(415) 641-6574",
-        "city": "San Francisco",
+        "city": "Sacramento",
         "zip_code": "94110"
     },
     {
@@ -491,7 +491,7 @@ const doctors = [
         "address": "3555 Cesar Chavez St",
         "specialty": "General Pediatrics",
         "phone": "(415) 641-6655",
-        "city": "San Francisco",
+        "city": "Sacramento",
         "zip_code": "94110"
     },
     {
@@ -500,7 +500,7 @@ const doctors = [
         "address": "3555 Cesar Chavez St",
         "specialty": "General Pediatrics",
         "phone": "(415) 647-8600",
-        "city": "San Francisco",
+        "city": "Sacramento",
         "zip_code": "94110"
     },
     {
@@ -689,7 +689,7 @@ const doctors = [
         "address": "3555 Cesar Chavez St",
         "specialty": "Diagnostic Radiology / Imaging",
         "phone": "(415) 641-6545",
-        "city": "San Francisco",
+        "city": "Long Beach",
         "zip_code": "94110"
     },
     {
@@ -698,7 +698,7 @@ const doctors = [
         "address": "3555 Cesar Chavez St",
         "specialty": "General Pediatrics",
         "phone": "(415) 641-6655",
-        "city": "San Francisco",
+        "city": "Long Beach",
         "zip_code": "94110"
     },
     {
@@ -707,7 +707,7 @@ const doctors = [
         "address": "3555 Cesar Chavez St",
         "specialty": "Diagnostic Radiology / Imaging",
         "phone": "(415) 641-6545",
-        "city": "San Francisco",
+        "city": "Long Beach",
         "zip_code": "94110"
     },
     {
@@ -716,7 +716,7 @@ const doctors = [
         "address": "3555 Cesar Chavez St",
         "specialty": "General Pediatrics",
         "phone": "(415) 641-6655",
-        "city": "San Francisco",
+        "city": "Long Beach",
         "zip_code": "94110"
     },
     {
@@ -725,7 +725,7 @@ const doctors = [
         "address": "3555 Cesar Chavez St",
         "specialty": "Diagnostic Radiology / Imaging",
         "phone": "(415) 641-6545",
-        "city": "San Francisco",
+        "city": "Long Beach",
         "zip_code": "94110"
     },
     {
@@ -734,7 +734,7 @@ const doctors = [
         "address": "3555 Cesar Chavez St",
         "specialty": "General Pediatrics",
         "phone": "(415) 647-8600",
-        "city": "San Francisco",
+        "city": "Long Beach",
         "zip_code": "94110"
     },
     {
@@ -743,7 +743,7 @@ const doctors = [
         "address": "3555 Cesar Chavez St",
         "specialty": "Diagnostic Radiology / Imaging",
         "phone": "(415) 641-6545",
-        "city": "San Francisco",
+        "city": "Long Beach",
         "zip_code": "94110"
     },
     {
@@ -752,7 +752,7 @@ const doctors = [
         "address": "3555 Cesar Chavez St",
         "specialty": "Diagnostic Radiology / Imaging",
         "phone": "(415) 641-6545",
-        "city": "San Francisco",
+        "city": "Long Beach",
         "zip_code": "94110"
     },
     {
@@ -761,7 +761,7 @@ const doctors = [
         "address": "3555 Cesar Chavez St",
         "specialty": "Pathology",
         "phone": "(415) 641-6574",
-        "city": "San Francisco",
+        "city": "Long Beach",
         "zip_code": "94110"
     },
     {
@@ -770,7 +770,7 @@ const doctors = [
         "address": "3555 Cesar Chavez St",
         "specialty": "Diagnostic Radiology / Imaging",
         "phone": "(415) 641-6545",
-        "city": "San Francisco",
+        "city": "Long Beach",
         "zip_code": "94110"
     },
     {
@@ -896,7 +896,7 @@ const doctors = [
         "address": "3555 Cesar Chavez St",
         "specialty": "General Pediatrics",
         "phone": "(415) 647-8600",
-        "city": "San Francisco",
+        "city": "Dallas",
         "zip_code": "94110"
     },
     {
