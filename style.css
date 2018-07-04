@@ -1,0 +1,23 @@
+
+.container {
+    width: 100%;
+}
+.search-bar {
+    text-align: center;
+}
+
+.table {
+    width: 100%;
+}
+tr.row-data  {
+    text-align: center;  
+}
+.header {
+    background-color: blueviolet;
+    color:white;
+}
+.flex {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
