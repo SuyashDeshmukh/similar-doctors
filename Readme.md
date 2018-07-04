@@ -17,4 +17,4 @@ This site contains a listing of doctors. Users can browse for doctors given a sp
 - Similarity can be determined using factors like specialty and area.
 - Data can be fetched by a performing a http request.
 
- URL : <http://find-doctors.herokuapp.com.herokuapp.com>
+ URL : <http://find-doctors.herokuapp.com>
